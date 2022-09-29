@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "id": "@shopgate-project/add-to-cart-quantity-picker",
+  "components": [
+    {
+      "id": "PDPAddToCartBar",
+      "path": "frontend/portals/PDPAddToCartBar/index.jsx",
+      "target": "product.add-to-cart-bar",
+      "type": "portals"
+    }
+  ],
+  "configuration": {
+  }
+}
